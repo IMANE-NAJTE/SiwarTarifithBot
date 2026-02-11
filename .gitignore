@@ -1,0 +1,10 @@
+# Logs
+*.log
+
+# Fichiers temporaires
+__pycache__/
+*.pyc
+
+# Clés sensibles
+service_account.json
+
